@@ -26,7 +26,8 @@ robot filename
 ## Robot framework  
 http://robotframework.org/  
 
-## Selenium2Library keywords http://rtomac.github.io/robotframework-selenium2library/doc/Selenium2Library.html#Click%20Button  
+## Selenium2Library keywords  
+http://rtomac.github.io/robotframework-selenium2library/doc/Selenium2Library.html#Click%20Button  
 
 ## Web driver for firefox  
 https://github.com/mozilla/geckodriver/releases  
